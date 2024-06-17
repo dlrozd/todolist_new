@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/dlrozd/todolist_new",
+  "homepage": "https://drozd.github.io/todolist_new",
   "name": "1-lesson",
   "version": "0.1.0",
   "private": true,
@@ -22,11 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   },
   "eslintConfig": {
     "extends": [
