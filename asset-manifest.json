@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dlrozd/todolist_new/static/css/main.bbb55728.css",
+    "main.js": "/dlrozd/todolist_new/static/js/main.04aaa0b0.js",
+    "index.html": "/dlrozd/todolist_new/index.html",
+    "main.bbb55728.css.map": "/dlrozd/todolist_new/static/css/main.bbb55728.css.map",
+    "main.04aaa0b0.js.map": "/dlrozd/todolist_new/static/js/main.04aaa0b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb55728.css",
+    "static/js/main.04aaa0b0.js"
+  ]
+}
